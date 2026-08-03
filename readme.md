@@ -1,30 +1,104 @@
 # Hi, I'm Ahmad Khalili 👋
-### DevOps Engineer | Infrastructure Enthusiast | Knowledge Sharer
 
-I believe that the best way to master technology is to document it and share it with others. This repository serves as my **Technical Knowledge Base**—a collection of scripts, guides, and troubleshooting workflows I've developed throughout my career.
+### Platform-focused DevOps Engineer | Production Infrastructure | Linux | Docker | PostgreSQL | CI/CD
+
+I am an IT infrastructure professional with **6+ years of experience**, including **2+ years focused on DevOps and Platform Engineering**.
+
+My work centers on building, securing, automating, and operating reliable infrastructure across Linux, Docker, VMware ESXi, PostgreSQL, and enterprise CI/CD environments. I progressed from Technical Support into DevOps through hands-on troubleshooting, continuous learning, and taking ownership of production systems.
 
 ---
 
-## 📂 What's Inside?
+## 🚀 What I Work On
 
-### 🛠️ Automation & Scripts
-* **Network Issue Solvers:** Bash and Python scripts to diagnose and repair common connectivity bottlenecks.
-* **Maintenance Tools:** Automations for physical server maintenance (vSphere/Bare-metal).
+- **Platform Engineering:** internal developer platforms, deployment workflows, self-hosted DevOps services, and infrastructure operations
+- **CI/CD:** Azure DevOps Server, GitLab CI/CD, self-hosted agents, build pipelines, Docker image delivery, and deployment automation
+- **Containers:** Docker, Docker Compose, private registries, container networking, and production workload operations
+- **Database Reliability:** PostgreSQL administration, Streaming Replication, WAL Archiving, backup validation, PITR, PgBouncer, and access hardening
+- **Observability:** Prometheus, Grafana, Zabbix, PMM, EFK, centralized logging, and infrastructure troubleshooting
+- **Infrastructure Security:** Linux hardening, SSH security, firewall controls, SCRAM authentication, and Docker network security
+- **Virtualization & Networking:** VMware ESXi, Nginx, WireGuard, MikroTik, DNS, routing, and reverse proxy architecture
+- **Automation:** Bash and Python scripts for maintenance, deployment, evidence collection, backup verification, and operational workflows
+
+---
+
+## ☸️ Current Focus: Kubernetes
+
+I am currently building hands-on Kubernetes experience with **Minikube** and **Kind**, dedicating focused daily time to learning and experimentation.
+
+My next steps include:
+
+- Building a multi-node Kubernetes cluster on virtual machines
+- Deploying a real application to the cluster
+- Working with Services, Ingress, storage, security, and observability
+- Managing workloads with Helm
+- Connecting CI/CD pipelines to Kubernetes deployments
+- Moving toward advanced and production-oriented Kubernetes practices
+
+I am also continuing my learning path in **Jenkins**, followed by **AWS and cloud-native infrastructure**.
+
+---
+
+## 📂 What You'll Find Here
+
+### 🛠️ Automation & Operations
+
+- Bash and Python scripts for infrastructure administration
+- Deployment and maintenance workflows
+- Backup validation and operational checks
+- Troubleshooting utilities for Linux, Docker, and networking
+
+### ☸️ Kubernetes Labs
+
+- Kubernetes manifests and practical exercises
+- Minikube and Kind experiments
+- Multi-node cluster notes
+- Application deployment, networking, storage, security, and observability examples
+
+### 🗄️ PostgreSQL Reliability
+
+- Streaming Replication and WAL Archiving notes
+- Backup and recovery workflows
+- Point-in-Time Recovery validation
+- PgBouncer and PostgreSQL access hardening
+- Production troubleshooting documentation
 
 ### 📊 Monitoring & Observability
-* **The Monitoring Stack:** Step-by-step guides for deploying and fine-tuning Zabbix, Prometheus, and Grafana.
-* **Log Management:** Configuration templates for centralized logging from production services.
 
-### 🐧 Linux & Troubleshooting
-* **Linux Issue Registry:** A "cheat sheet" of solutions for kernel, filesystem, and package management issues.
-* **Nginx & OpenSSL:** Best practices for securing web traffic and managing SSL certificates.
+- Prometheus, Grafana, Zabbix, PMM, and EFK configurations
+- Centralized logging patterns
+- Monitoring and alerting examples
+- Practical incident investigation notes
 
-### 🤖 AI Operations
-* Operations documentation for running **n8n**, **Ollama**, and **Redis** in production environments.
+### 🐧 Linux, Networking & Security
+
+- Linux administration and hardening guides
+- Nginx and OpenSSL configurations
+- Docker networking and firewall troubleshooting
+- DNS, routing, WireGuard, and MikroTik notes
+- Root-cause analysis from real infrastructure problems
+
+### 🤖 AI Platform Operations
+
+- Infrastructure notes for n8n, Ollama, Open WebUI, Redis, Docker, and Nginx
+- Linux provisioning and hardening
+- Installation and deployment automation
 
 ---
 
-## 🚀 Let's Connect
-I'm always open to discussing CI/CD, Infrastructure as Code, or networking. Feel free to explore the scripts, open an issue, or suggest an improvement!
+## 🧭 How I Approach Engineering
 
-[LinkedIn Profile](https://www.linkedin.com/in/ahmad-khalili-28a61a97/) | [Personal Portfolio](https://khaliliahmad.github.io/)
+I believe strong engineering is built on three principles:
+
+- **Ownership:** taking responsibility from problem identification to resolution
+- **Problem solving:** understanding systems deeply and finding root causes
+- **Continuous learning:** improving through hands-on practice and real-world challenges
+
+My goal is not only to make systems work, but to make them **reliable, secure, maintainable, and understandable**.
+
+---
+
+## 🤝 Let's Connect
+
+I am always interested in discussing DevOps, Platform Engineering, Kubernetes, Linux, PostgreSQL reliability, observability, and infrastructure automation.
+
+[LinkedIn](https://www.linkedin.com/in/ahmad-khalili-28a61a97/) · [Portfolio](https://khaliliahmad.github.io/)
