@@ -1,10 +1,14 @@
 # Hi, I'm Ahmad Khalili 👋
 
-### Platform-focused DevOps Engineer | Production Infrastructure | Linux | Docker | PostgreSQL | CI/CD
+### DevOps Engineer | Platform Engineering | Production Infrastructure | Linux | Docker | PostgreSQL | CI/CD
 
-I am an IT infrastructure professional with **6+ years of experience**, including **2+ years focused on DevOps and Platform Engineering**.
+I am an IT infrastructure professional with **6+ years of experience**, including **3+ years focused on DevOps, infrastructure automation, and platform engineering practices**.
 
-My work centers on building, securing, automating, and operating reliable infrastructure across Linux, Docker, VMware ESXi, PostgreSQL, and enterprise CI/CD environments. I progressed from Technical Support into DevOps through hands-on troubleshooting, continuous learning, and taking ownership of production systems.
+My work centers on building, securing, automating, and operating reliable infrastructure across Linux, Docker, VMware ESXi, PostgreSQL, and enterprise CI/CD environments.
+
+I progressed from Technical Support into DevOps Engineering through hands-on troubleshooting, continuous learning, and taking ownership of production systems.
+
+I have contributed to enterprise infrastructure projects and scalable SaaS platform development, including Infrastructure as Code practices using **OpenTofu, Ansible, and Cloud-init**.
 
 ---
 
@@ -14,6 +18,7 @@ My work centers on building, securing, automating, and operating reliable infras
 - **CI/CD:** Azure DevOps Server, GitLab CI/CD, self-hosted agents, build pipelines, Docker image delivery, and deployment automation
 - **Containers:** Docker, Docker Compose, private registries, container networking, and production workload operations
 - **Database Reliability:** PostgreSQL administration, Streaming Replication, WAL Archiving, backup validation, PITR, PgBouncer, and access hardening
+- **Infrastructure as Code:** OpenTofu, Terraform concepts, Ansible, Cloud-init, configuration management, and automated infrastructure provisioning
 - **Observability:** Prometheus, Grafana, Zabbix, PMM, EFK, centralized logging, and infrastructure troubleshooting
 - **Infrastructure Security:** Linux hardening, SSH security, firewall controls, SCRAM authentication, and Docker network security
 - **Virtualization & Networking:** VMware ESXi, Nginx, WireGuard, MikroTik, DNS, routing, and reverse proxy architecture
@@ -23,12 +28,12 @@ My work centers on building, securing, automating, and operating reliable infras
 
 ## ☸️ Current Focus: Kubernetes
 
-I am currently building hands-on Kubernetes experience with **Minikube** and **Kind**, dedicating focused daily time to learning and experimentation.
+I am currently building hands-on Kubernetes experience through labs and real-world deployment scenarios using **Minikube** and **Kind**.
 
-My next steps include:
+My current learning path includes:
 
 - Building a multi-node Kubernetes cluster on virtual machines
-- Deploying a real application to the cluster
+- Deploying real applications on Kubernetes
 - Working with Services, Ingress, storage, security, and observability
 - Managing workloads with Helm
 - Connecting CI/CD pipelines to Kubernetes deployments
@@ -82,6 +87,12 @@ I am also continuing my learning path in **Jenkins**, followed by **AWS and clou
 - Infrastructure notes for n8n, Ollama, Open WebUI, Redis, Docker, and Nginx
 - Linux provisioning and hardening
 - Installation and deployment automation
+
+### ☁️ SaaS Platform Infrastructure
+
+- Infrastructure design and automation experiments using OpenTofu, Ansible, and Cloud-init
+- Multi-tenant architecture concepts
+- Repeatable environment provisioning workflows
 
 ---
 
