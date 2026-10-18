@@ -112,4 +112,4 @@ My goal is not only to make systems work, but to make them **reliable, secure, m
 
 I am always interested in discussing DevOps, Platform Engineering, Kubernetes, Linux, PostgreSQL reliability, observability, and infrastructure automation.
 
-[LinkedIn](https://www.linkedin.com/in/ahmad-khalili-28a61a97/) · [Portfolio](https://khaliliahmad.github.io/)
+[LinkedIn](https://www.linkedin.com/in/khaliliahmad/) · [Portfolio](https://khaliliahmad.github.io/)
